@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WebUIAutomation" parallel="false" thread-count="1" verbose="10">
+
+	<!-- AccountTest - Functional Test case - END to END flow covered -->
+	<test name="AccountTest">
+		<classes>
+			<class name="com.avitas.qa.automation.api.AccountTest" />
+			<class name="com.avitas.qa.automation.api.RatedMoviesTest" />
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->

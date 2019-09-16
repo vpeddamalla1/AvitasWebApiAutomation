@@ -1,0 +1,21 @@
+{
+	"IMDB_DATA": {
+		"baseUrl": "https://api.themoviedb.org",
+		"version": "3",
+		"apiKey": "318749acc7205bd8acb28cd7c681993a",
+		"userName": "XXXXXX",
+		"passWord": "XXXXXX"
+	},
+	"ACCOUNT": {
+		"FAVORITES_TEST": [
+			{
+				"mediaType": "tv",
+				"searchTerm": "The Flash"
+			},
+			{
+				"mediaType": "movie",
+				"searchTerm": "John Wick"
+			}
+		]
+	}
+}
